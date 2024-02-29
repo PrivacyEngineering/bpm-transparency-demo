@@ -10,7 +10,7 @@
 ## Quick start
 
 ```
-git clone git@github.com:ciphersmaug/transparency-logging.git
+git clone git@github.com:PrivacyEngineering/bpm-transparency-demo.git
 skaffold run
 ```
 
